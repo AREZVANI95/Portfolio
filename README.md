@@ -8,8 +8,10 @@ Welcome to my Portfolio Website, I did stray from the template design because I 
 [Portfolio](https://arezvani95.github.io/Portfolio/)
 
 ## Screenshots
-### Both HTML & CSS
-![image](assets/images/Both%20HTML%20%26%20CSS.PNG)
+### Figma Wireframe
+![image](resources/css/img/img/Figma%20Part%201.PNG)
+![image](resources/css/img/img/Figma%20Part%202.PNG)
 
 ### Website Display
-![image](assets/images/Website%20Display.PNG)
+![image](resources/css/img/img/Index%20Img.PNG)
+![image](resources/css/img/img/Index%20Img2.PNG)
