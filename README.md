@@ -9,9 +9,9 @@ Welcome to my Portfolio Website, I did stray from the template design because I 
 
 ## Screenshots
 ### Figma Wireframe
-![image](resources/css/img/img/Figma%20Part%201.PNG)
-![image](resources/css/img/img/Figma%20Part%202.PNG)
+![image](resources/css/img/Figma%20Part%201.PNG)
+![image](resources/css/img/Figma%20Part%202.PNG)
 
 ### Website Display
-![image](resources/css/img/img/Index%20Img.PNG)
-![image](resources/css/img/img/Index%20Img2.PNG)
+![image](resources/css/img/Index%20Img.PNG)
+![image](resources/css/img/Index%20Img2.PNG)
